@@ -1,1 +1,1 @@
-# saas-billing-portal
+Project developed using FastAPI and SQLite.
